@@ -1,8 +1,8 @@
-# traveling
+# Traveling App
 
 
-![traveling App](traveling.png)   ![traveling App](traveling2.png)
-
+![traveling App](traveling.png)
+![traveling App](traveling2.png)
 ![traveling App](traveling3.png)
 
 
