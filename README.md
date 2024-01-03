@@ -1,6 +1,8 @@
 # traveling
 
 A new Flutter project.
+![traveling App](images/traveling.png)
+
 
 ## Getting Started
 
